@@ -16,14 +16,14 @@
 		"DataSentAfterConnectionLost": "尝试在断开连接后将数据发送至客户端",
 		"NetMessageError": "消息 {0} 出错",
 		"CaptureOutOfMemory": "截图时内存不足。请减小截图尺寸或尝试重启游戏。",
-		"ServerStartFailed": "启动会话失败"
+		"ServerStartFailed": "启动服务器失败"
 	},
 	"Key": {
-		"UP": "UP",
-		"DOWN": "DOWN"
+		"UP": "Up",
+		"DOWN": "Down"
 	},
 	"Language": {
-		"English": "简体中文(亚共测试版汉化v2026.1)",
+		"English": "亚共版汉化Beta v2026.1",
 		"Spanish": "Español",
 		"French": "English",
 		"Italian": "Italiano",
@@ -108,9 +108,9 @@
 		"Say_Usage": "用途：说<words>",
 		"ServerMessage": "<Server> {0}",
 		"Kick_Usage": "用途：踢除<player>",
-		"KickMessage": "你已被踢出会话。",
+		"KickMessage": "你已被踢出服务器。",
 		"Ban_Usage": "用途：封禁<player>",
-		"BanMessage": "你已被禁止加入此会话。",
+		"BanMessage": "你已被禁止加入此服务器。",
 		"InvalidCommand": "无效命令。",
 		"SetInitialPort": "服务器端口（按enter表示7777）:",
 		"AutomaticPortForward": "自动转发端口？（是/否）：",
@@ -136,7 +136,7 @@
 		"EnterWorldName": "输入世界名称：",
 		"EnterServerPassword": "服务器密码（按enter表示不设置）：",
 		"ClientWasBooted": "{0}已踢出：{1}",
-		"ServerStarted": "会话已开始",
+		"ServerStarted": "服务器已开始",
 		"EnterSeed": "输入种子（随机留空）：",
 		"NoValidSeed": "本世界在不支持种子的较旧版本中生成。",
 		"DisplaySeed": "世界种子：{0}",
@@ -144,7 +144,7 @@
 		"ServerIsFull": "此服务器已满，请稍后再试。",
 		"WorldNameLengthTooLong": "所输入的世界名称太长！（字符数上限：{0}）",
 		"SeedLengthTooLong": "所输入的种子太长！（字符数上限：{0}）",
-		"SecretSeedEnabled": "秘密已激活！"
+		"SecretSeedEnabled": "秘密种子已激活！"
 	},
 	"UI": {
 		"Effects": "效果",
@@ -533,7 +533,7 @@
 		"ConnectingTo": "连接到{0}",
 		"IsReceivingTileData": "正在接收图格数据",
 		"LostConnection": "连接已丢失",
-		"FoundServer": "已找到会话",
+		"FoundServer": "已找到服务器",
 		"SendingPlayerData": "正在发送玩家数据...",
 		"RequestingWorldInformation": "正在请求世界信息",
 		"RequestingTileData": "正在请求图格数据",
@@ -550,7 +550,7 @@
 		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "古老的力量阻止你进入这个位置…"
 	},
 	"GameUI": {
-		"Storm": "斯托姆",
+		"Storm": "暴风雨",
 		"HeavyRain": "暴雨",
 		"Rain": "雨",
 		"LightRain": "小雨",
@@ -723,8 +723,8 @@
 		"RespawnInSuffix": "{0}",
 		"SpectateHint": "按左右键观战",
 		"SpectateHintChangeTarget": "按左右键切换目标。按跳跃键返回",
-		"SpectateSinglePlayer": "你在球体中看到的只是你自己的倒影。",
-		"SpectateNoTargets": "只有你一个人...",
+		"SpectateSinglePlayer": "球体中映射着你孤独的倒影...",
+		"SpectateNoTargets": "你孤身一人...",
 		"GamepadSpectate": "观战",
 		"GamepadSpectateChangeTarget": "切换目标",
 		"GamepadSpectateCancel": "返回",

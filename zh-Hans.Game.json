@@ -1,10 +1,10 @@
 {
 	"SkeletronText": {
-		"Taunt1": "<骷髅王>今天就到此为止。我们下期再见。祝好",
-		"Taunt2": "<骷髅王>请考虑点击订阅按钮",
-		"Taunt3": "<骷髅王>你可以使用代码CHIPPY节省15%",
-		"Taunt4": "<骷髅王>你好呀，泰拉瑞亚的热心人！",
-		"Taunt5": "<骷髅王>66.2%的视频观看者实际上并未订阅"
+		"Taunt1": "骷髅王:桑百颗够吗?应该够吧...",
+		"Taunt2": "骷髅王:请考虑点击订阅按钮",
+		"Taunt3": "骷髅王:你可以使用代码CHIPPY节省15%",
+		"Taunt4": "骷髅王:你好呀，泰拉瑞亚的热心人！",
+		"Taunt5": "骷髅王:关注世界的草钩叉谢谢喵!"
 	},
 	"WorldGeneration": {
 		"OceanSand": "正在生成海洋沙滩",
@@ -843,7 +843,7 @@
 		"WeaponImbuePoison": "武器灌注：毒药",
 		"WellFed": "吃得好",
 		"WellFed2": "很满意",
-		"WellFed3": "精美毛绒玩具",
+		"WellFed3": "酒足饭饱",
 		"DesertMinecart": "{$BuffName.Minecart}",
 		"FishMinecart": "{$BuffName.Minecart}",
 		"GolfCartMount": "高尔夫球车",
