@@ -7186,7 +7186,7 @@
 		"SkiphsShirt": "{$CommonItemTooltip.DevItem}",
 		"SkiphsWings": "{$CommonItemTooltip.DevItem}\n{$CommonItemTooltip.FlightAndSlowfall}",
 		"SliceOfCake": "{$CommonItemTooltip.UseableWhenPlaced}\n“你大快朵颐。其他人大快朵颐。管它呢。”",
-		"SlimeGun": "喷出一股粘液，可以点亮大多数灯\n被粘液覆盖的玩家和生物会受到更多的火焰伤害\n在微光中嬗变为[i:5495}",
+		"SlimeGun": "喷出一股粘液，可以点亮大多数灯\n被粘液覆盖的玩家和生物会受到更多的火焰伤害\n在微光中嬗变为[i:5495]",
 		"SlimySaddle": "召唤可骑乘的史莱姆坐骑\n“亡了，亡了！”",
 		"SnowCloudBlock": "{$CommonItemTooltip.PreventFallDamage}",
 		"SnowFallBlock": "比雪球冷多了",
