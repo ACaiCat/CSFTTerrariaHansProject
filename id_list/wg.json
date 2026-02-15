@@ -1,0 +1,824 @@
+[
+  {
+    "Name": "火把",
+    "ItemId": 8,
+    "TransformedName": "以太火把",
+    "TransformedId": 5353
+  },
+  {
+    "Name": "生命水晶",
+    "ItemId": 29,
+    "TransformedName": "活力水晶",
+    "TransformedId": 5337
+  },
+  {
+    "Name": "魔粉",
+    "ItemId": 67,
+    "TransformedName": "净化粉",
+    "TransformedId": 66
+  },
+  {
+    "Name": "暗影护胫",
+    "ItemId": 100,
+    "TransformedName": "远古暗影护胫",
+    "TransformedId": 958
+  },
+  {
+    "Name": "暗影鳞甲",
+    "ItemId": 101,
+    "TransformedName": "远古暗影鳞甲",
+    "TransformedId": 957
+  },
+  {
+    "Name": "暗影头盔",
+    "ItemId": 102,
+    "TransformedName": "远古暗影头盔",
+    "TransformedId": 956
+  },
+  {
+    "Name": "魔力水晶",
+    "ItemId": 109,
+    "TransformedName": "奥术水晶",
+    "TransformedId": 5339
+  },
+  {
+    "Name": "死灵头盔",
+    "ItemId": 151,
+    "TransformedName": "远古死灵头盔",
+    "TransformedId": 959
+  },
+  {
+    "Name": "水桶",
+    "ItemId": 206,
+    "TransformedName": "熔岩桶",
+    "TransformedId": 207
+  },
+  {
+    "Name": "熔岩桶",
+    "ItemId": 207,
+    "TransformedName": "蜂蜜桶",
+    "TransformedId": 1128
+  },
+  {
+    "Name": "整蛊坐垫",
+    "ItemId": 215,
+    "TransformedName": "毒气机关",
+    "TransformedId": 5346
+  },
+  {
+    "Name": "丛林帽",
+    "ItemId": 228,
+    "TransformedName": "远古钴头盔",
+    "TransformedId": 960
+  },
+  {
+    "Name": "丛林衣",
+    "ItemId": 229,
+    "TransformedName": "远古钴胸甲",
+    "TransformedId": 961
+  },
+  {
+    "Name": "丛林裤",
+    "ItemId": 230,
+    "TransformedName": "远古钴护腿",
+    "TransformedId": 962
+  },
+  {
+    "Name": "挖矿衣",
+    "ItemId": 410,
+    "TransformedName": "挖矿裤",
+    "TransformedId": 411
+  },
+  {
+    "Name": "挖矿裤",
+    "ItemId": 411,
+    "TransformedName": "挖矿衣",
+    "TransformedId": 410
+  },
+  {
+    "Name": "巫士徽章",
+    "ItemId": 489,
+    "TransformedName": "召唤师徽章",
+    "TransformedId": 2998
+  },
+  {
+    "Name": "战士徽章",
+    "ItemId": 490,
+    "TransformedName": "游侠徽章",
+    "TransformedId": 491
+  },
+  {
+    "Name": "游侠徽章",
+    "ItemId": 491,
+    "TransformedName": "巫士徽章",
+    "TransformedId": 489
+  },
+  {
+    "Name": "诅咒火把",
+    "ItemId": 523,
+    "TransformedName": "以太火把",
+    "TransformedId": 5353
+  },
+  {
+    "Name": "魔法书",
+    "ItemId": 531,
+    "TransformedName": "先进战斗技术：卷二",
+    "TransformedId": 5336
+  },
+  {
+    "Name": "星星斗篷",
+    "ItemId": 532,
+    "TransformedName": "炫彩斗篷",
+    "TransformedId": 5355
+  },
+  {
+    "Name": "生命木魔棒",
+    "ItemId": 832,
+    "TransformedName": "雀杖",
+    "TransformedId": 4281
+  },
+  {
+    "Name": "优惠卡",
+    "ItemId": 854,
+    "TransformedName": "幸运币",
+    "TransformedId": 855
+  },
+  {
+    "Name": "幸运币",
+    "ItemId": 855,
+    "TransformedName": "金戒指",
+    "TransformedId": 3033
+  },
+  {
+    "Name": "沙暴瓶",
+    "ItemId": 857,
+    "TransformedName": "法老面具",
+    "TransformedId": 848
+  },
+  {
+    "Name": "粘性绷带",
+    "ItemId": 885,
+    "TransformedName": "牛黄",
+    "TransformedId": 887
+  },
+  {
+    "Name": "盔甲抛光剂",
+    "ItemId": 886,
+    "TransformedName": "维生素",
+    "TransformedId": 892
+  },
+  {
+    "Name": "牛黄",
+    "ItemId": 887,
+    "TransformedName": "粘性绷带",
+    "TransformedId": 885
+  },
+  {
+    "Name": "蒙眼布",
+    "ItemId": 888,
+    "TransformedName": "袖珍镜",
+    "TransformedId": 3781
+  },
+  {
+    "Name": "快走时钟",
+    "ItemId": 889,
+    "TransformedName": "三折地图",
+    "TransformedId": 893
+  },
+  {
+    "Name": "扩音器",
+    "ItemId": 890,
+    "TransformedName": "邪眼",
+    "TransformedId": 891
+  },
+  {
+    "Name": "邪眼",
+    "ItemId": 891,
+    "TransformedName": "扩音器",
+    "TransformedId": 890
+  },
+  {
+    "Name": "维生素",
+    "ItemId": 892,
+    "TransformedName": "盔甲抛光剂",
+    "TransformedId": 886
+  },
+  {
+    "Name": "三折地图",
+    "ItemId": 893,
+    "TransformedName": "快走时钟",
+    "TransformedId": 889
+  },
+  {
+    "Name": "熔岩护身符",
+    "ItemId": 906,
+    "TransformedName": "岩浆石",
+    "TransformedId": 1322
+  },
+  {
+    "Name": "远古暗影头盔",
+    "ItemId": 956,
+    "TransformedName": "暗影头盔",
+    "TransformedId": 102
+  },
+  {
+    "Name": "远古暗影鳞甲",
+    "ItemId": 957,
+    "TransformedName": "暗影鳞甲",
+    "TransformedId": 101
+  },
+  {
+    "Name": "远古暗影护胫",
+    "ItemId": 958,
+    "TransformedName": "暗影护胫",
+    "TransformedId": 100
+  },
+  {
+    "Name": "远古死灵头盔",
+    "ItemId": 959,
+    "TransformedName": "死灵头盔",
+    "TransformedId": 151
+  },
+  {
+    "Name": "远古钴头盔",
+    "ItemId": 960,
+    "TransformedName": "丛林帽",
+    "TransformedId": 228
+  },
+  {
+    "Name": "远古钴胸甲",
+    "ItemId": 961,
+    "TransformedName": "丛林衣",
+    "TransformedId": 229
+  },
+  {
+    "Name": "远古钴护腿",
+    "ItemId": 962,
+    "TransformedName": "丛林裤",
+    "TransformedId": 230
+  },
+  {
+    "Name": "篝火",
+    "ItemId": 966,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "蜂蜜桶",
+    "ItemId": 1128,
+    "TransformedName": "水桶",
+    "TransformedId": 206
+  },
+  {
+    "Name": "生命果",
+    "ItemId": 1291,
+    "TransformedName": "神盾果",
+    "TransformedId": 5338
+  },
+  {
+    "Name": "岩浆石",
+    "ItemId": 1322,
+    "TransformedName": "熔岩护身符",
+    "TransformedId": 906
+  },
+  {
+    "Name": "灵液火把",
+    "ItemId": 1333,
+    "TransformedName": "以太火把",
+    "TransformedId": 5353
+  },
+  {
+    "Name": "丛林钥匙",
+    "ItemId": 1533,
+    "TransformedName": "丛林箱",
+    "TransformedId": 1528
+  },
+  {
+    "Name": "腐化钥匙",
+    "ItemId": 1534,
+    "TransformedName": "腐化箱",
+    "TransformedId": 1529
+  },
+  {
+    "Name": "猩红钥匙",
+    "ItemId": 1535,
+    "TransformedName": "猩红箱",
+    "TransformedId": 1530
+  },
+  {
+    "Name": "神圣钥匙",
+    "ItemId": 1536,
+    "TransformedName": "神圣箱",
+    "TransformedId": 1531
+  },
+  {
+    "Name": "冰冻钥匙",
+    "ItemId": 1537,
+    "TransformedName": "冰雪箱",
+    "TransformedId": 1532
+  },
+  {
+    "Name": "丛林钥匙",
+    "ItemId": 1803,
+    "TransformedName": "丛林箱",
+    "TransformedId": 1528
+  },
+  {
+    "Name": "腐化钥匙",
+    "ItemId": 1804,
+    "TransformedName": "腐化箱",
+    "TransformedId": 1529
+  },
+  {
+    "Name": "猩红钥匙",
+    "ItemId": 1805,
+    "TransformedName": "猩红箱",
+    "TransformedId": 1530
+  },
+  {
+    "Name": "神圣钥匙",
+    "ItemId": 1806,
+    "TransformedName": "神圣箱",
+    "TransformedId": 1531
+  },
+  {
+    "Name": "冰冻钥匙",
+    "ItemId": 1807,
+    "TransformedName": "冰雪箱",
+    "TransformedId": 1532
+  },
+  {
+    "Name": "优质钓鱼线",
+    "ItemId": 2373,
+    "TransformedName": "渔夫耳环",
+    "TransformedId": 2374
+  },
+  {
+    "Name": "渔夫耳环",
+    "ItemId": 2374,
+    "TransformedName": "钓具箱",
+    "TransformedId": 2375
+  },
+  {
+    "Name": "钓具箱",
+    "ItemId": 2375,
+    "TransformedName": "优质钓鱼线",
+    "TransformedId": 2373
+  },
+  {
+    "Name": "毒粉",
+    "ItemId": 2886,
+    "TransformedName": "净化粉",
+    "TransformedId": 66
+  },
+  {
+    "Name": "召唤师徽章",
+    "ItemId": 2998,
+    "TransformedName": "战士徽章",
+    "TransformedId": 490
+  },
+  {
+    "Name": "施法桌",
+    "ItemId": 2999,
+    "TransformedName": "炼药桌",
+    "TransformedId": 3000
+  },
+  {
+    "Name": "炼药桌",
+    "ItemId": 3000,
+    "TransformedName": "施法桌",
+    "TransformedId": 2999
+  },
+  {
+    "Name": "骨头火把",
+    "ItemId": 3004,
+    "TransformedName": "以太火把",
+    "TransformedId": 5353
+  },
+  {
+    "Name": "金戒指",
+    "ItemId": 3033,
+    "TransformedName": "优惠卡",
+    "TransformedId": 854
+  },
+  {
+    "Name": "天气收音机",
+    "ItemId": 3037,
+    "TransformedName": "渔民袖珍宝典",
+    "TransformedId": 3120
+  },
+  {
+    "Name": "诅咒篝火",
+    "ItemId": 3046,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "恶魔篝火",
+    "ItemId": 3047,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "冰冻篝火",
+    "ItemId": 3048,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "灵液篝火",
+    "ItemId": 3049,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "彩虹篝火",
+    "ItemId": 3050,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "附魔日晷",
+    "ItemId": 3064,
+    "TransformedName": "附魔月晷",
+    "TransformedId": 5381
+  },
+  {
+    "Name": "草药袋",
+    "ItemId": 3093,
+    "TransformedName": "蠕虫罐头",
+    "TransformedId": 4345
+  },
+  {
+    "Name": "六分仪",
+    "ItemId": 3096,
+    "TransformedName": "天气收音机",
+    "TransformedId": 3037
+  },
+  {
+    "Name": "渔民袖珍宝典",
+    "ItemId": 3120,
+    "TransformedName": "六分仪",
+    "TransformedId": 3096
+  },
+  {
+    "Name": "气球河豚鱼",
+    "ItemId": 3225,
+    "TransformedName": "闪亮红气球",
+    "TransformedId": 159
+  },
+  {
+    "Name": "超亮篝火",
+    "ItemId": 3723,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "骨头篝火",
+    "ItemId": 3724,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "袖珍镜",
+    "ItemId": 3781,
+    "TransformedName": "蒙眼布",
+    "TransformedId": 888
+  },
+  {
+    "Name": "爆炸烈焰魔杖",
+    "ItemId": 3818,
+    "TransformedName": "弩车魔杖",
+    "TransformedId": 3824
+  },
+  {
+    "Name": "爆炸烈焰手杖",
+    "ItemId": 3819,
+    "TransformedName": "弩车手杖",
+    "TransformedId": 3825
+  },
+  {
+    "Name": "爆炸烈焰法杖",
+    "ItemId": 3820,
+    "TransformedName": "弩车法杖",
+    "TransformedId": 3826
+  },
+  {
+    "Name": "弩车魔杖",
+    "ItemId": 3824,
+    "TransformedName": "爆炸机关魔杖",
+    "TransformedId": 3832
+  },
+  {
+    "Name": "弩车手杖",
+    "ItemId": 3825,
+    "TransformedName": "爆炸机关手杖",
+    "TransformedId": 3833
+  },
+  {
+    "Name": "弩车法杖",
+    "ItemId": 3826,
+    "TransformedName": "爆炸机关法杖",
+    "TransformedId": 3834
+  },
+  {
+    "Name": "闪电光环魔杖",
+    "ItemId": 3829,
+    "TransformedName": "爆炸烈焰魔杖",
+    "TransformedId": 3818
+  },
+  {
+    "Name": "闪电光环手杖",
+    "ItemId": 3830,
+    "TransformedName": "爆炸烈焰手杖",
+    "TransformedId": 3819
+  },
+  {
+    "Name": "闪电光环法杖",
+    "ItemId": 3831,
+    "TransformedName": "爆炸烈焰法杖",
+    "TransformedId": 3820
+  },
+  {
+    "Name": "爆炸机关魔杖",
+    "ItemId": 3832,
+    "TransformedName": "闪电光环魔杖",
+    "TransformedId": 3829
+  },
+  {
+    "Name": "爆炸机关手杖",
+    "ItemId": 3833,
+    "TransformedName": "闪电光环手杖",
+    "TransformedId": 3830
+  },
+  {
+    "Name": "爆炸机关法杖",
+    "ItemId": 3834,
+    "TransformedName": "闪电光环法杖",
+    "TransformedId": 3831
+  },
+  {
+    "Name": "珍珠木匣",
+    "ItemId": 3979,
+    "TransformedName": "木匣",
+    "TransformedId": 2334
+  },
+  {
+    "Name": "秘银匣",
+    "ItemId": 3980,
+    "TransformedName": "铁匣",
+    "TransformedId": 2335
+  },
+  {
+    "Name": "钛金匣",
+    "ItemId": 3981,
+    "TransformedName": "金匣",
+    "TransformedId": 2336
+  },
+  {
+    "Name": "污损匣",
+    "ItemId": 3982,
+    "TransformedName": "腐化匣",
+    "TransformedId": 3203
+  },
+  {
+    "Name": "血匣",
+    "ItemId": 3983,
+    "TransformedName": "猩红匣",
+    "TransformedId": 3204
+  },
+  {
+    "Name": "围栏匣",
+    "ItemId": 3984,
+    "TransformedName": "地牢匣",
+    "TransformedId": 3205
+  },
+  {
+    "Name": "天蓝匣",
+    "ItemId": 3985,
+    "TransformedName": "天空匣",
+    "TransformedId": 3206
+  },
+  {
+    "Name": "天赐匣",
+    "ItemId": 3986,
+    "TransformedName": "神圣匣",
+    "TransformedId": 3207
+  },
+  {
+    "Name": "荆棘匣",
+    "ItemId": 3987,
+    "TransformedName": "丛林匣",
+    "TransformedId": 3208
+  },
+  {
+    "Name": "苹果",
+    "ItemId": 4009,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "杏",
+    "ItemId": 4282,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "香蕉",
+    "ItemId": 4283,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "黑醋栗",
+    "ItemId": 4284,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "血橙",
+    "ItemId": 4285,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "樱桃",
+    "ItemId": 4286,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "椰子",
+    "ItemId": 4287,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "火龙果",
+    "ItemId": 4288,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "接骨木果",
+    "ItemId": 4289,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "葡萄柚",
+    "ItemId": 4290,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "柠檬",
+    "ItemId": 4291,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "芒果",
+    "ItemId": 4292,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "桃子",
+    "ItemId": 4293,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "菠萝",
+    "ItemId": 4294,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "李子",
+    "ItemId": 4295,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "红毛丹",
+    "ItemId": 4296,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "杨桃",
+    "ItemId": 4297,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "蠕虫罐头",
+    "ItemId": 4345,
+    "TransformedName": "草药袋",
+    "TransformedId": 3093
+  },
+  {
+    "Name": "珊瑚火把",
+    "ItemId": 4384,
+    "TransformedName": "以太火把",
+    "TransformedId": 5353
+  },
+  {
+    "Name": "针叶木匣",
+    "ItemId": 4406,
+    "TransformedName": "冰冻匣",
+    "TransformedId": 4405
+  },
+  {
+    "Name": "幻象匣",
+    "ItemId": 4408,
+    "TransformedName": "绿洲匣",
+    "TransformedId": 4407
+  },
+  {
+    "Name": "沙漠篝火",
+    "ItemId": 4689,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "珊瑚篝火",
+    "ItemId": 4690,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "腐化篝火",
+    "ItemId": 4691,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "猩红篝火",
+    "ItemId": 4692,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "神圣篝火",
+    "ItemId": 4693,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "丛林篝火",
+    "ItemId": 4694,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "沙漠钥匙",
+    "ItemId": 4714,
+    "TransformedName": "沙漠箱",
+    "TransformedId": 4712
+  },
+  {
+    "Name": "狱石匣",
+    "ItemId": 4878,
+    "TransformedName": "黑曜石匣",
+    "TransformedId": 4877
+  },
+  {
+    "Name": "海边匣",
+    "ItemId": 5003,
+    "TransformedName": "海洋匣",
+    "TransformedId": 5002
+  },
+  {
+    "Name": "辣椒",
+    "ItemId": 5277,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "石榴",
+    "ItemId": 5278,
+    "TransformedName": "仙馔密酒",
+    "TransformedId": 5342
+  },
+  {
+    "Name": "蘑菇篝火",
+    "ItemId": 5299,
+    "TransformedName": "以太篝火",
+    "TransformedId": 5357
+  },
+  {
+    "Name": "勘探者上衣",
+    "ItemId": 5589,
+    "TransformedName": "挖矿裤",
+    "TransformedId": 411
+  },
+  {
+    "Name": "勘探者裤装",
+    "ItemId": 5590,
+    "TransformedName": "挖矿衣",
+    "TransformedId": 410
+  }
+]
