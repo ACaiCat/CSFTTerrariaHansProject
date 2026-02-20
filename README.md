@@ -7,3 +7,4 @@
 - 参与者：Cjx，小史
 - 本汉化完全免费使用，禁止用于商业用途，严禁倒卖！
 - 反馈/交流QQ群：634750168
+- 自动生成/打包语言与字体工具：https://github.com/Cjx8848/UnpackTerrariaTextAsset
