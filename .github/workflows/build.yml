@@ -40,7 +40,7 @@ jobs:
             }
           }
           
-          Copy-Item -Path backup_config\config.json -Destination work\config.json -Force
+          Get-ChildItem -Path work -Recurse | Select-Object FullName
           
       - name: Download Origin File from Release
         uses: actions/github-script@v7
