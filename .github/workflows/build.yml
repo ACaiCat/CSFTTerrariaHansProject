@@ -40,22 +40,6 @@ jobs:
             }
           }
           
-      - name: Create Config File
-        run: |
-          $config = @{
-            UseDarkTheme = $false
-            UseCpp2Il = $true
-            ImportDir = "import"
-            ExportDir = "export"
-            WorkDir = "work"
-            OriginPath = ""
-            OutputPath = ""
-            EnableTexture2D = $true
-            WorkDirFileNameMapping = @{}
-          } | ConvertTo-Json -Depth 10
-          
-          Set-Content -Path config.json -Value $config -Encoding UTF8
-          
       - name: Download Origin File from Release
         uses: actions/github-script@v7
         with:
