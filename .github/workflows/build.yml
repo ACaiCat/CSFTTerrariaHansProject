@@ -16,7 +16,7 @@ jobs:
         
       - name: Prepare Work Directory
         run: |
-          New-Item -ItemType Directory -Force -Path work\Text
+          New-Item -ItemType Directory -Force -Path work
           New-Item -ItemType Directory -Force -Path import
           New-Item -ItemType Directory -Force -Path export
           
@@ -27,7 +27,7 @@ jobs:
           Get-ChildItem -Path Text -Directory | ForEach-Object {
             if ($_.Name -ne "Combat_Text") {
               Get-ChildItem -Path $_.FullName -File | ForEach-Object {
-                Copy-Item $_.FullName -Destination "work\Text\"
+                Copy-Item $_.FullName -Destination "work\"
               }
             }
           }
