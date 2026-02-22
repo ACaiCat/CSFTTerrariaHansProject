@@ -24,8 +24,8 @@ jobs:
         run: |
           Get-ChildItem -Filter zh-Hans*.json | ForEach-Object { Copy-Item $_.FullName -Destination work\ }
           
-          Get-ChildItem -Path Text -Directory | ForEach-Object {
-            if ($_.Name -ne "Combat_Text") {
+          Get-ChildItem -Path Font -Directory | ForEach-Object {
+            if ($_.Name -ne "Trash") {
               Get-ChildItem -Path $_.FullName -File | ForEach-Object {
                 Copy-Item $_.FullName -Destination "work\"
               }
