@@ -37,6 +37,7 @@
 ## 工具
 - 自动生解包/打包语言与字体工具：https://github.com/Cjx8848/UnpackTerrariaTextAsset
 - 自动生成字体分页与txt文件：
+https://github.com/UnrealMultiple/TRPEFontGen
 
 ## 仓库
 - GitHub：https://github.com/WindFrost-CSFT/CSFTTerrariaHansProject
