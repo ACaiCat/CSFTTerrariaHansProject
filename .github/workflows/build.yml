@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - opencode_server
   workflow_dispatch:
 
 jobs:
